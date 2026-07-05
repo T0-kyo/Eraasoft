@@ -1,0 +1,7 @@
+1) Because the C is a standard format that stands for Currency which formats the number to 
+the format $0.00 the dollar sign then the number then two numbers after the decimal point.
+
+2) If I have a value and I need to print in in a formatted way to the user like a currency or a percentage etc.. 
+instead of writing the dollar sign and rounding up or down or changing the decimal numbers I can just use the built in standard formats.
+
+3) Screenshot is provided.
